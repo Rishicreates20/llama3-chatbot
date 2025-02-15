@@ -26,7 +26,7 @@ This is a simple chatbot application built using the LLama3 model from Meta. The
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rajveersinghcse/Llama3-Chatbot.git
+ 
    ```
 
 2. Navigate to the project directory:
